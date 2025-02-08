@@ -2,7 +2,7 @@
 	"name": "Task-Management-System-common",
 	"version": "0.1.0",
 	"description": "Common types for Task-Management-System full-stack webapp",
-	"main": "index.js",
+	"main": "src/index.js",
 	"repository": "https://github.com/KristiyanStefanov23/Task-Management-System-common.git",
 	"author": "Kristiyan Stefanov <46137735+KristiyanStefanov23@users.noreply.github.com>",
 	"license": "MIT",

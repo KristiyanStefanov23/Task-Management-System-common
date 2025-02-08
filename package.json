@@ -1,0 +1,16 @@
+{
+	"name": "Task-Management-System-common",
+	"version": "0.1.0",
+	"description": "Common types for Task-Management-System full-stack webapp",
+	"main": "index.js",
+	"repository": "https://github.com/KristiyanStefanov23/Task-Management-System-common.git",
+	"author": "Kristiyan Stefanov <46137735+KristiyanStefanov23@users.noreply.github.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/express": "^5.0.0",
+		"@types/node": "^22.13.1",
+		"sequelize-typescript": "^2.1.6",
+		"typescript": "^5.7.3",
+		"@types/sequelize": "^4.28.20"
+	}
+}
